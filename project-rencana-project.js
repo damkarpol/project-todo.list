@@ -2,8 +2,9 @@ RENCANA BELAJAR JS
 
 - PROJECT WEBSITE
   * web sederehana
-  * fitur button belanja
+  * fitur registrasi
 - PROJECT APK
- * fitur login no hp
--PROJECT PORTOFOLIO
+  * fitur login
+- PROJECT PORTOFOLIO
   * portofolio sederhana
+- PROJECT database
